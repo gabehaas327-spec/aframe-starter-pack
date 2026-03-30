@@ -77,10 +77,9 @@ Setup Your Code and Live Site (GitHub and GitHub Pages)
 
 As you work, remember to not just save your files in VS Code but also periodically sync your work to GitHub:
 
-1. Go back to **GitHub Desktop**.
-2. You will see your changed files listed.
-3. Write a commit message describing what you changed in the bottom left.
-4. Click **Commit to main** (or Command/Control + Enter)
-5. Click **Push origin** (or Command/Control + P)
+1. Go back to **GitHub Desktop** where you will see your changed files listed.
+2. Write a commit message describing what you changed in the bottom left.
+3. Click **Commit to main** (or Command + Enter on a Mac) (or Control + Enter on a PC)
+4. Click **Push origin** (or Command + P on a Mac) (or Control + P on a PC)
 
 
